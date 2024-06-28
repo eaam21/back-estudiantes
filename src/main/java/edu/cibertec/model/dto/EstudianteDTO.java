@@ -1,6 +1,6 @@
 package edu.cibertec.model.dto;
 
-public record EstudianteInputDTO(
+public record EstudianteDTO(
 	    String apellidoPaterno,
 	    String apellidoMaterno,
 	    String nombres,
